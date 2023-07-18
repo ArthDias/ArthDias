@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <h1>Olá, eu sou o Arthur!</h1>
+  <h1>Olá, eu sou o Arthur! 😁👋</h1>
   <p>Bem-vindo(a) à minha página de overview no Github! Aqui você encontrará informações sobre mim e meu trabalho como desenvolvedor. Prepare-se para embarcar nessa jornada pelo mundo da programação!</p>
   <h2>Linguagens e Ferramentas</h2>
   <p>Nas minhas aventuras de código, sou versado em várias linguagens e ferramentas. Aqui estão algumas das minhas favoritas:</p>
