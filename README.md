@@ -40,16 +40,12 @@ Here are some ideas to get you started:
   <h2>Contato</h2>
   <p>Quer bater um papo, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das seguintes redes sociais:</p>
   <ul>
-    <li>
       <a href="https://www.linkedin.com/in/arthur-ferreira-dias-513046234/">
         <i class="fab fa-linkedin"></i>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" />
       </a>
-    </li>
-    <li>
       <a href="https://instagram.com/arthdiass?igshid=OGQ5ZDc2ODk2ZA==">
         <i class="fab fa-instagram"></i>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" />
       </a>
-    </li>
   </ul>
