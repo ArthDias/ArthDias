@@ -48,6 +48,6 @@ Here are some ideas to get you started:
       </a>
   </ul>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="arthdias linguagens mais usadas" /></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="arthdias status github" /></p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="arthdias status github" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthdias&theme=tokyonight&hide_border=false" alt="arthdias contribuições" /></p>
   
