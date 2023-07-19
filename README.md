@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </p>
   </ul>
   <h2>Contato</h2>
-  <p>Quer bater um papo, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das seguintes redes sociais:</p>
+  <p>Quer bater um papo, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das redes sociais:</p>
   <ul>
       <a href="https://www.linkedin.com/in/arthur-ferreira-dias-513046234/">
         <i class="fab fa-linkedin"></i>
@@ -47,3 +47,7 @@ Here are some ideas to get you started:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" />
       </a>
   </ul>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthdias&show_icons=true&locale=pt&layout=compact" alt="arthdias linguagens mais usadas" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arthdias&show_icons=true&locale=pt" alt="arthdias status github" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arthdias&locale=pt" alt="arthdias contribuições" /></p>
+  
