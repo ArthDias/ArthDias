@@ -52,8 +52,6 @@ Here are some ideas to get you started:
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="arthdias status github" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthdias&theme=tokyonight&hide_border=false" alt="arthdias contribuições" />
-    </p>
-    <p align="center">
       <img style="diplay: block; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="arthdias linguagens mais usadas" />
     </p>
   </ul>
