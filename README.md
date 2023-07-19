@@ -47,7 +47,7 @@ Here are some ideas to get you started:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" />
       </a>
   </ul>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthdias&show_icons=true&locale=br&layout=compact" alt="arthdias linguagens mais usadas" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arthdias&show_icons=true&locale=br" alt="arthdias status github" /></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arthdias&locale=br" alt="arthdias contribuições" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="arthdias linguagens mais usadas" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arthdias&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="arthdias status github" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arthdias&theme=tokyonight&hide_border=false" alt="arthdias contribuições" /></p>
   
