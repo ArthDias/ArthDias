@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </p>
   </ul>
   <h2>Contato</h2>
-  <p>Se quiser conversar, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das redes sociais:</p>
+  <p>Se quiser conversar, discutir ideias ou simplesmente me conhecer melhor, fique à vontade para entrar em contato comigo por meio das redes sociais:</p>
   <ul>
       <a href="https://www.linkedin.com/in/arthur-ferreira-dias-513046234/">
         <i class="fab fa-linkedin"></i>
