@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <h1>Olá, eu sou o Arthur! 😁👋</h1>
   <p>Bem-vindo ao meu espaço no GitHub! Aqui você encontrará uma coleção dos meus projetos. Sinta-se à vontade para explorar, colaborar e compartilhar ideias. Espero que encontre algo que desperte seu interesse! 😁</p>
   <h2>Linguagens e Ferramentas</h2>
-  <p>Nas minhas aventuras de código, sou versado em várias linguagens e ferramentas. Aqui estão algumas das minhas favoritas:</p>
+  <p>Sou versado em várias linguagens e ferramentas. Aqui estão algumas das minhas favoritas:</p>
   <ul>
     <p align="left">
       <a href="" target="_blank" rel="noreferrer">
