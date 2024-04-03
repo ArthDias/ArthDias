@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h1>Olá, eu sou o Arthur! 😁👋</h1>
-  <p>Bem-vindo(a) à minha página no Github! Aqui você encontrará informações sobre mim e meu trabalho como desenvolvedor. Prepare-se para embarcar nessa jornada pelo mundo da programação!</p>
+  <p>"Bem-vindo ao meu espaço no GitHub! Aqui você encontrará uma coleção dos meus projetos. Sinta-se à vontade para explorar, colaborar e compartilhar ideias. Espero que encontre algo que desperte seu interesse! 😁"</p>
   <h2>Linguagens e Ferramentas</h2>
   <p>Nas minhas aventuras de código, sou versado em várias linguagens e ferramentas. Aqui estão algumas das minhas favoritas:</p>
   <ul>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </p>
   </ul>
   <h2>Contato</h2>
-  <p>Quer bater um papo, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das redes sociais:</p>
+  <p>Se quiser conversar, discutir ideias ou simplesmente me conhecer melhor? Fique à vontade para entrar em contato comigo por meio das redes sociais:</p>
   <ul>
       <a href="https://www.linkedin.com/in/arthur-ferreira-dias-513046234/">
         <i class="fab fa-linkedin"></i>
